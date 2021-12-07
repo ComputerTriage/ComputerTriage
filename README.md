@@ -1,6 +1,6 @@
 - 👋 Hi, We are @ComputerTriage
 - 👀 We are interested in information security
-- 🌱 We are currently learning about computer technology and cyber security
+- 🌱 We are currently learning about computer technology and cybersecurity
 - 💞️ We are looking to collaborate on security innovations
 - 📫 How to reach me service@computertriage.com
 
